@@ -5,6 +5,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "cordova": {
+    "id": "cordova-plugin-back-as-home",
+    "platforms": [
+      "android"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amitsinha559/cordova-plugin-back-as-home.git"
